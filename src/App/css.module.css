@@ -3,9 +3,3 @@
 	display: grid;
 	grid-template-rows: auto 1fr auto;
 }
-
-.main {
-	width: 100%;
-	max-width: var(--max-w-main);
-	padding: var(--p-md);
-}
